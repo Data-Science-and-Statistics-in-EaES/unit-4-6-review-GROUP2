@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 - 6 Review Starter"
+
 author: "Group 2: Gracie, Penny, Lenu"
 date: "211101"
 output: html_document
@@ -43,11 +44,18 @@ season <- c("winter", "winter", "spring", "spring", "spring", "summer", "summer"
 
 #### Member 2: Penny
 
-Add your code here.
+
+```{r order}
+order <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)
+```
 
 #### Member 3: Lenu
 
-Add your code here.
+```{r - temperature vector}
+temperature_f <- c(30, 35, 40, 50, 60, 65, 70, 75, 80, 85, 90, 95)
+
+```
+
 
 
 ## Exercise 2 - Combine into a data frame

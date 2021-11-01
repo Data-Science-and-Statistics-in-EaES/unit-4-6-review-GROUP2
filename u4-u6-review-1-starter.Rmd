@@ -69,7 +69,7 @@ ___ <- tibble::tibble(
 
 #### Member 1: Gracie
 
-```{r merge-two-vectors, eval = T}
+```{r merge-seasons-months, eval = T}
 merge <- tibble::tibble(
   "month_name" = month_name,
   "season" = season

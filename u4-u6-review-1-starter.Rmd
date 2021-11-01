@@ -77,7 +77,12 @@ Add your code here.
 
 #### Member 3: Lenu
 
-Add your code here.
+```{r merge-two-vectors, month and temperature, eval = F}
+month_temperature <- tibble::tibble(
+  "month_name" = month_name,
+  "temperature_f" = month_name
+)
+```
 
 
 ## Exercise 3 - Try plotting with `month_name` on the x axis, then recode factors

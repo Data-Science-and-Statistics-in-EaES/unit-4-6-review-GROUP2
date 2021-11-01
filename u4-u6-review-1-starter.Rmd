@@ -61,7 +61,12 @@ ___ <- tibble::tibble(
 
 #### Member 1: Gracie
 
-Add your code here.
+```{r merge-two-vectors, eval = T}
+merge <- tibble::tibble(
+  "month_name" = month_name,
+  "season" = season
+)
+```
 
 #### Member 2: Penny
 

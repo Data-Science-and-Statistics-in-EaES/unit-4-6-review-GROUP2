@@ -77,7 +77,7 @@ Add your code here.
 
 #### Member 3: Lenu
 
-```{r merge-two-vectors, month and temperature, eval = F}
+```{r merge-two-vectors, month and temperature, eval = T}
 month_temperature <- tibble::tibble(
   "month_name" = month_name,
   "temperature_f" = month_name

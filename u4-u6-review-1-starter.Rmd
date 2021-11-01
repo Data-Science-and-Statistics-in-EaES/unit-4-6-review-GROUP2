@@ -69,7 +69,12 @@ ___ <- tibble::tibble(
 
 #### Member 1: Gracie
 
-Add your code here.
+```{r merge-seasons-months, eval = T}
+merge <- tibble::tibble(
+  "month_name" = month_name,
+  "season" = season
+)
+```
 
 #### Member 2: Penny
 

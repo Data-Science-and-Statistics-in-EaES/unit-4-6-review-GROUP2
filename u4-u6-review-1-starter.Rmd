@@ -48,7 +48,11 @@ Add your code here.
 
 #### Member 3: Lenu
 
-Add your code here.
+```{r - temperature vector}
+temperature_f <- c(30, 35, 40, 50, 60, 65, 70, 75, 80, 85, 90, 95)
+
+```
+
 
 
 ## Exercise 2 - Combine into a data frame

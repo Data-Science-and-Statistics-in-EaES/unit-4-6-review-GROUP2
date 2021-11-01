@@ -1,7 +1,8 @@
 ---
 title: "Unit 4 - 6 Review Starter"
-author: "Group 2, Lenu Kabashi forked"
-date: "11/1/2021"
+
+author: "Group 2: Gracie, Penny, Lenu"
+date: "211101"
 output: html_document
 ---
 
@@ -34,25 +35,21 @@ month_name <- c("January",
                 "December")
 ```
 
-#### Member 1
+#### Member 1: Gracie
+
+
+```{r season-vector}
+season <- c("winter", "winter", "spring", "spring", "spring", "summer", "summer", "summer", "fall", "fall", "fall", "winter")
+```
+
+#### Member 2: Penny
 
 Add your code here.
 
-#### Member 2
+#### Member 3: Lenu
 
 Add your code here.
 
-#### Member 3
-
-Add your code here.
-
-#### Member 4
-
-Add your code here.
-
-#### Member 5
-
-Add your code here.
 
 ## Exercise 2 - Combine into a data frame
 

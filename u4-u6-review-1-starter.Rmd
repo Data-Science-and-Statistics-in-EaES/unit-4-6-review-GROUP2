@@ -59,67 +59,44 @@ ___ <- tibble::tibble(
 )
 ```
 
-#### Member 1
+#### Member 1: Gracie
 
 Add your code here.
 
-#### Member 2
+#### Member 2: Penny
 
 Add your code here.
 
-#### Member 3
+#### Member 3: Lenu
 
 Add your code here.
 
-#### Member 4
-
-Add your code here.
-
-#### Member 5
-
-Add your code here.
 
 ## Exercise 3 - Try plotting with `month_name` on the x axis, then recode factors
 
-#### Member 1
+#### Member 1: Gracie
 
 Add your code here.
 
-#### Member 2
+#### Member 2: Penny
 
 Add your code here.
 
-#### Member 3
-
-Add your code here.
-
-#### Member 4
-
-Add your code here.
-
-#### Member 5
+#### Member 3: Lenu
 
 Add your code here.
 
 ## Exercise 4 - Join all the data frames, filter randomly, and over-write vector
 
-#### Member 1
+#### Member 1: Gracie
 
 Add your code here.
 
-#### Member 2
+#### Member 2: Penny
 
 Add your code here.
 
-#### Member 3
-
-Add your code here.
-
-#### Member 4
-
-Add your code here.
-
-#### Member 5
+#### Member 3: Lenu
 
 Add your code here.
 
@@ -132,22 +109,14 @@ ___ <- tibble::tibble(
 )
 ```
 
-#### Member 1
+#### Member 1: Gracie
 
 Add your code here.
 
-#### Member 2
+#### Member 2: Penny
 
 Add your code here.
 
-#### Member 3
-
-Add your code here.
-
-#### Member 4
-
-Add your code here.
-
-#### Member 5
+#### Member 3: Lenu
 
 Add your code here.

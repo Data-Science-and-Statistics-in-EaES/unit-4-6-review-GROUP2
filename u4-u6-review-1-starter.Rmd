@@ -43,6 +43,7 @@ season <- c("winter", "winter", "spring", "spring", "spring", "summer", "summer"
 
 #### Member 2: Penny
 
+
 ```{r order}
 order <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)
 ```
